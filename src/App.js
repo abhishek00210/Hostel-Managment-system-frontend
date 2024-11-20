@@ -16,7 +16,7 @@ import UserEditView from "./screens/userEditView";
 
 const App = () => {
   return (
-    <Router basename='/'>
+    <Router basename='https://hostel-managment-backend-1.onrender.com/'>
       <Header />
       <main className="py-3">
         <Container>
